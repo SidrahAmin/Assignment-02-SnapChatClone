@@ -1,1 +1,1 @@
-# Assignment-02-SnapChatClone
+SnapChatClone
